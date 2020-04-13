@@ -2,16 +2,17 @@ Ity tetik'asa covid19-mankaiza-clone eto @ GItHub ity dia manadihady ilay modely
 (Priesemann et al) sy ilay programa Python nozarainy malalaka (GNU General Public License) tato @ Github.
 
 Asa atao eto:
-A1: Manazava ireo block tsirairay ao @ ilay notebook ;
-A2: Manova ireo block ilaina mifanaraka @ ireo antontan’isa MDG.
+A1: Manazava ireo code block tsirairay ao @ ilay notebook ;
+A2: Manova ireo code block ilaina mifanaraka @ ireo antontan’isa MDG.
 A3: Mamoaka modely sy programa mifanaraka @ antontan’isa MDG.
 
 Fomba fiasa eto:
 Ff1: Fomba fiasa GitHub no arahina (afaka jerena eto: herysedra/covid19-mankaiza-clone/My notes/Github and Python/Github.docx)
-Ff2: GNU General Public License no arahina (afaka jerena eto: /LICENSE), 
+Ff2: GNU General Public License no arahina (afaka jerena eto: herysedra/covid19-mankaiza-clone/LICENSE), 
 izany hoe malalaka tanteraka ny tsirairay ampiasa ny vokatra rehetra eto: hanova, hizara (na mety hivarotra aza).
+Ff3: Ny tsirairay dia afaka mampifandray olona hiara-hiasa eto @ ity tetik'asa ity: 
  
-NB: Nalaina tao @ LiCENSE an’i Priesemann et al:
+NB: Am-pahany nalaina tao @ LiCENSE an’i Priesemann et al:
 “Our General Public Licenses are designed to make sure that you have the freedom to distribute copies of free software 
 (and charge for them if you wish), that you receive source code or can get it if you want it, that you can change 
 the software or use pieces of it in new free programs, and that you know you can do these things.
