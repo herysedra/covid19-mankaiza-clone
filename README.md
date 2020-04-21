@@ -8,7 +8,7 @@ Fanadihadina vokatry ny fifandraisan'ny olona maromaro tsy ho voatanisa avokoa. 
 
 Ilay modely-programa [eto](https://github.com/Priesemann-Group/covid19_inference_forecast/blob/master/scripts/paper/Corona_germany_simple_model.ipynb) nampiasan-dry Priesemann et al no ovaina sy ampifanarahana amin'ireo antontan'isa momba an'i Madagasikara.
 
-### Jereo [eto](momba_ny tetikasa.md) ny momba ny tetik'asa ankapobeany.
+### Jereo [eto](momba_ny_tetikasa.md) ny momba ny tetik'asa ankapobeany.
 
 Toy izao ireo vokatra avy amin'ilay [modely nampifanarahana](https://github.com/herysedra/covid19-mankaiza-clone/blob/andrana/scripts/paper/Covmdg_andrana.ipynb).
 
