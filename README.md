@@ -16,7 +16,7 @@ Toy izao ireo vokatra avy amin'ilay [modely nampifanarahana](https://github.com/
 
 ### Vokatra an-tsary
 
-<img src="figures/sar1ccomdg.png" width="600">
+<img src="figures/cco1mdg.png" width="600">
 
-<img src="figures/sar2ccomdg.png" width="600">
+<img src="figures/cco2mdg.png" width="600">
 
