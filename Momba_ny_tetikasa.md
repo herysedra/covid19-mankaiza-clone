@@ -11,8 +11,7 @@ A3: Mamoaka modely sy programa mifanaraka @ antontan’isa MDG.
 
 Fomba fiasa eto:
 Ff1: Fomba fiasa GitHub no arahina (afaka jerena eto: herysedra/covid19-mankaiza-clone/My notes/Github and Python/Github.docx)
-Ff2: GNU General Public License no arahina (afaka jerena [eto](License.md)), 
-izany hoe malalaka tanteraka ny tsirairay ampiasa ny vokatra rehetra eto: hanova, hizara (na mety hivarotra aza).
+Ff2: GNU General Public License no arahina, izany hoe malalaka tanteraka ny tsirairay ampiasa ny vokatra rehetra eto: hanova, hizara (na mety hivarotra aza).
 Ff3: Ireo olona te hiara-hiasa eto @ ity tetik'asa ity dia afaka mandefa ny adiresy email-ny @ herysedra@yahoo.fr
  
 NB: Am-pahany nalaina tao @ LiCENSE an’i Priesemann et al:
