@@ -12,8 +12,7 @@ Ilay modely-programa [eto](https://github.com/Priesemann-Group/covid19_inference
 
 Toy izao ireo vokatra avy amin'ilay [modely nampifanarahana](https://github.com/herysedra/covid19-mankaiza-clone/blob/andrana/scripts/paper/Covmdg_andrana.ipynb).
 
-### Nifindra [eto](https://github.com/herysedra/ady_cov):
-Ny tabilao ankapobeany sy ireo modely vitsivitsy ijerena ny fivoaran'ny Covid-19 ao Madagasikara.
+### Nifindra [eto](https://github.com/herysedra/ady_cov) izao.
 
 ### Vokatra an-tsary
 
