@@ -14,7 +14,7 @@ Toy izao ireo vokatra avy amin'ilay [modely nampifanarahana](https://github.com/
 
 ### Nifindra [eto](https://github.com/herysedra/ady_cov) izao.
 
-### Vokatra an-tsary
+### Fanadihadiana an-tsary
 
 <img src="figures/cco1mdg.png" width="600">
 
